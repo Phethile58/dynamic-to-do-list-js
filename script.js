@@ -49,7 +49,4 @@ document.addEventListener('DOMContentLoaded', function () {
             addTask();
         }
     });
-
-    // Optional: you can also run an initial function on load if needed
-    // For now, we don't need to call addTask on load — it only acts when user interacts
 });
